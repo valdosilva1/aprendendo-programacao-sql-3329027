@@ -8,6 +8,4 @@ VALUES
 -- Insira 1 nova classe salarial, sem declarar o atributo id_salario
 INSERT INTO salario_classe(salario, nivel)
 VALUES
-(6700, 'plena'),
-(7200, 'lider'),
-(9400, 'gerente');
+(6700, 'plena');
